@@ -1,2 +1,2 @@
-# tools-for-data-science
- Tools for Data Science course assignments
+# Coursera: Tools for Data Science
+This repository includes the assignment submission for the **Tools for Data Science** course
